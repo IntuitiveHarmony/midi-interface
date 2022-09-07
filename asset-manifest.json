@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/midi-interface/static/css/main.073c9b0a.css",
-    "main.js": "/midi-interface/static/js/main.fe23b188.js",
+    "main.js": "/midi-interface/static/js/main.ebdd4e93.js",
     "static/js/787.65832ce5.chunk.js": "/midi-interface/static/js/787.65832ce5.chunk.js",
     "index.html": "/midi-interface/index.html",
     "main.073c9b0a.css.map": "/midi-interface/static/css/main.073c9b0a.css.map",
-    "main.fe23b188.js.map": "/midi-interface/static/js/main.fe23b188.js.map",
+    "main.ebdd4e93.js.map": "/midi-interface/static/js/main.ebdd4e93.js.map",
     "787.65832ce5.chunk.js.map": "/midi-interface/static/js/787.65832ce5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fe23b188.js"
+    "static/js/main.ebdd4e93.js"
   ]
 }
